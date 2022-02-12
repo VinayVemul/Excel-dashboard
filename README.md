@@ -1,7 +1,7 @@
 # Excel-dashboard
 salesman dashboard using pivot tables.
 1) Dashboard button
-:- click DAshboard button to show the result 2021 to 2022 and regions. how much items was selling. 
+:- click Dashboard button to show the result 2021 to 2022 and regions. how much items was selling. 
 and show the total amount of products and total sales.
 
 2)product button
