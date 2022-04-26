@@ -6,7 +6,7 @@ and show the total amount of products and total sales.
 
 2)product button
 :- click product button to show the result of how much salling product in 2021 to 2022 and regions to show the bar of Each product.
-and also show the  top 3 selling product and less 3 selling product .
+and also showing the  top 3 selling product and less 3 selling product .
 
 3)Salesman button 
 :- click salesman button to show the reslut of who salesman how much salelling product in 2021 to 2022 show the amount of each salesman
